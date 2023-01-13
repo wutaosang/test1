@@ -9,5 +9,5 @@ test
 
 remote:
       func main{
-	fmt.println('777')
+	fmt.println('888')
       }
