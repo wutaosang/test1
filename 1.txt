@@ -2,3 +2,8 @@ origin:
       func main{
         fmt.println("666")
       }
+
+remote:
+      func main{
+	fmt.println('777')
+      }
