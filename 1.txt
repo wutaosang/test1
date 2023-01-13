@@ -3,6 +3,10 @@ origin:
         fmt.println("666")
       }
 
+
+test
+
+
 remote:
       func main{
 	fmt.println('777')
