@@ -2,15 +2,7 @@ origin:
       func main{
         fmt.println("666")
       }
-
-
-<<<<<<< HEAD
-dev11111111111111111111111111
-=======
-seeee
->>>>>>> 9c9f1a1fdac08516a8ee02fc1718e3c499ec0525
-
-
+seeee111
 remote:
       func main{
 	fmt.println('888')
