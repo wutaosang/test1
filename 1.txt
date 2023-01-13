@@ -1,0 +1,4 @@
+origin:
+      func main{
+        fmt.println("666")
+      }
